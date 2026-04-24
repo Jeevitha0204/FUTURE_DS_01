@@ -1,0 +1,87 @@
+# 📊 E-Commerce Sales Analysis Dashboard
+
+## 📌 Objective
+
+The objective of this project is to analyze e-commerce sales data to identify key business insights such as revenue trends, top-performing products, customer behavior, and regional performance. The goal is to provide data-driven recommendations to improve business growth and decision-making.
+
+---
+
+## 🛠️ Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Data Cleaning Techniques
+* Data Visualization (Charts & Dashboard)
+
+---
+
+## 📁 Dataset
+
+The dataset consists of transactional e-commerce data including:
+
+* Invoice Number
+* Product Description
+* Quantity
+* Invoice Date
+* Unit Price
+* Customer ID
+* Country
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+* Total Revenue
+* Total Quantity Sold
+* Total Orders
+* Number of Customers
+
+---
+
+## 📈 Dashboard Features
+
+* Revenue Trend Over Time (Line Chart)
+* Top 10 Products by Revenue (Bar Chart)
+* Regional Sales Performance (Country-wise Analysis)
+* Product Performance Distribution
+* KPI Summary Cards for quick insights
+
+---
+
+## 🔍 Key Insights
+
+* Revenue shows an overall upward trend with noticeable spikes during certain periods, indicating seasonal demand patterns.
+* A small number of products contribute significantly to total revenue, highlighting a strong product concentration (Pareto effect).
+* The majority of sales come from a few key regions, especially the United Kingdom, indicating a geographically concentrated market.
+* Some products have high sales volume but relatively lower revenue, suggesting potential pricing optimization opportunities.
+* Customer purchasing behavior indicates repeat transactions, showing the presence of loyal customers.
+
+---
+
+## 💡 Business Recommendations
+
+* Focus marketing and inventory strategies on top-performing products to maximize revenue.
+* Expand business operations and marketing efforts to underperforming regions to diversify revenue sources.
+* Optimize pricing strategies for high-volume, low-revenue products to improve profitability.
+* Leverage seasonal trends by planning promotions and stock availability during peak sales periods.
+* Implement customer retention strategies such as loyalty programs to increase repeat purchases.
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how data analysis can be used to extract meaningful insights from raw business data. The dashboard provides a clear and interactive way to monitor performance and supports data-driven decision-making.
+
+---
+
+## 🔗 Project Files
+
+* Dashboard (Excel file)
+* Dataset
+* README Documentation
+
+---
+
+## 📢 Acknowledgment
+
+This project was completed as part of the Data Science & Analytics Internship Program by Future Interns.
